@@ -25,6 +25,7 @@ https://learn.microsoft.com/certifications/resources/study-guides/dp-900
 
 # 📂 Estrutura deste repositório
 
+```
 material-estudo-certificacao-DP-900/
 │
 ├── 01-Descrever-Conceitos-de-Dados/
@@ -52,6 +53,7 @@ material-estudo-certificacao-DP-900/
 │   └── engenharia-e-analise-de-dados.md
 │
 └── README.md
+```
 
 ---
 
@@ -98,13 +100,6 @@ Pull requests são bem-vindos.
 ---
 
 # 📬 Contato
-
-**Renan Oliveira Andrade**  
-Analista de Inteligência de Negócios • Power BI • Microsoft Fabric • SSIS/ETL  
-GitHub: https://github.com/axlrn  
-LinkedIn: https://www.linkedin.com/in/renan-oliveira-andrade/
-
-Linktree: https://linktr.ee/axlrn
 
 Caso este material tenha ajudado, considere deixar uma estrela ⭐ no repositório!  
 Dúvidas ou sugestões: fique à vontade para abrir uma *issue*.
